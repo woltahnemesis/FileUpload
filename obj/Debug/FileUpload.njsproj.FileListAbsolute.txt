@@ -1,0 +1,2 @@
+C:\Users\Owner\source\repos\FileUpload\obj\Debug\FileUpload.njsproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\FileUpload\bin\Microsoft.NodejsTools.WebRole.dll
